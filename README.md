@@ -2,7 +2,7 @@
 
 🎮 I’m currently working on my first feature length video game.    
 🎹 I’ve been teaching myself to play the piano for 7 months so far...  
-💬 Ask me about Formula 1, video games and why David Fincher is my favourite director.
+💬 Ask me about Formula 1, video games and why David Fincher is my favourite director.  
 ⚡ ~~Fun~~ fact: Bears eat beets.  
 📫 You'll find me on Twitter (@SamJordan_) and Discord (Samuel#8312) or you can drop me an email :)  
 
