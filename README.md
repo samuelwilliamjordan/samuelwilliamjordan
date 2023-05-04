@@ -1,10 +1,10 @@
 ### Hey 👋
 
-🔭 I’m currently working on my first feature length video game.    
-🌱 I’ve been teaching myself to play the piano for 7 months so far...  
+🎮 I’m currently working on my first feature length video game.    
+🎹 I’ve been teaching myself to play the piano for 7 months so far...  
 💬 Ask me about Formula 1, video games and why this isn't the year that everybody switches to Linux.  
 ⚡ ~~Fun~~ fact: Bears eat beets.  
-📫 I keep my phone on silent, but you'll find me on Twitter (@SamJordan_) and Discord (Samuel#8312) or you can drop me an email :)  
+📫 You'll find me on Twitter (@SamJordan_) and Discord (Samuel#8312) or you can drop me an email :)  
 
 
 <!--
