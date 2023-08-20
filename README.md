@@ -1,10 +1,10 @@
-### Hey 👋
+### Hey 👋,
 
-🎮 I’m currently working on my first feature length video game.    
-🎹 I’ve been teaching myself to play the piano for 7 months so far...  
-💬 Ask me about Formula 1, video games and why David Fincher is my favourite director.  
-⚡ ~~Fun~~ fact: Bears eat beets.  
-📫 You'll find me on Twitter (@SamJordan_) and Discord (Samwell952) or you can drop me an email :)  
+🎮 I’m currently designing/modelling/programming my first feature length game      
+🎹 I’ve been (trying) to teach myself to play the piano since the start of the year...    
+💬 Let's chat about Formula 1, simracing, independent games, or anything made by David Fincher  
+⚡ ~~Fun~~ fact: Bears eat beets.    
+📫 You can reach me on Twitter (@SamJordan_), Discord (Samwell952) or drop me an email :)    
 
 
 <!--
