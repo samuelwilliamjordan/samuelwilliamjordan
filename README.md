@@ -1,11 +1,4 @@
-### Hey 👋,
-
-🎮 I’m currently designing/modelling/programming my first feature length game      
-🎹 I’ve been (trying) to teach myself to play the piano since the start of the year...    
-💬 Let's chat about Formula 1, MMA, Boxing, indie platformers, or anything made by David Fincher  
-⚡ ~~Fun~~ fact: Bears eat beets.    
-📫 You can reach me on Twitter (@SamJordan_), Discord (Samwell952) or drop me an email :)    
-
+### Hey 👋
 
 <!--
 **SamuelJordan95/SamuelJordan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
